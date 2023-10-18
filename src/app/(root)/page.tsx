@@ -1,5 +1,11 @@
 import React from 'react';
+import Counter from '#components/counter';
 
 export default function Page() {
-  return <p>1.1.1</p>;
+  return (
+    <div>
+      <div>1.1.1</div>
+      <Counter />
+    </div>
+  );
 }
