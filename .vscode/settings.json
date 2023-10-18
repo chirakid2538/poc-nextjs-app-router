@@ -1,0 +1,7 @@
+{
+  "cSpell.words": ["chirakid", "esbenp", "kaweesirikon"],
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  }
+}
